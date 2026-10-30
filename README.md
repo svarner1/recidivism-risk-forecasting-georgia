@@ -27,7 +27,10 @@ This project analyzes 3-year post-release outcomes for over 25,000 individuals r
 ---
 
 ## 📊 Visualizations & Dashboards
-*(Embed your chart PNGs here from your reports/figures/ folder)*
+![Recidivism Rate vs. Drug Test Status Graph](Recidivism Rate vs. Drug Test Status.png)
+![Headcount vs. Drug Test Status Graph](Headcount vs. Drug Test Status Graph.png)
+![Recidivism Rate vs. Employment Group Graph](Recidivism Rate vs. Emplpoyment Group.png)
+![10-year Recidivism Ranges vs. Recent & Average Rates Graph](10-year Recidivism Ranges vs. Recent & Average Rates.png)
 
 ---
 
