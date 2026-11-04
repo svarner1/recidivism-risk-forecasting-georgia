@@ -27,10 +27,21 @@ This project analyzes 3-year post-release outcomes for over 25,000 individuals r
 ---
 
 ## 📊 Visualizations & Dashboards
-![Recidivism Rate vs. Drug Test Status Graph](<Recidivism Rate vs. Drug Test Status.png>)
-![Headcount vs. Drug Test Status Graph](<Headcount vs. Drug Test Status.png>)
-![Recidivism Rate vs. Employment Group Graph](<Recidivism Rate vs. Employment Group.png>)
-![10-year Recidivism Ranges vs. Recent & Average Rates Graph](<10-year Recidivism Ranges vs. Recent & Average Rates.png>)
+<!-- Chart 1: Substance Testing Status vs. Recidivism Rate -->
+<img src="visualizations/Recidivism Rate vs. Drug Test Status.png" alt="Recidivism Rate vs. Drug Test Status Graph" width="650"/>
+
+<!-- Chart 2: Population Headcount Distribution Across Drug Test Tiers -->
+<img src="visualizations/Headcount vs. Drug Test Status Graph.png" alt="Headcount vs. Drug Test Status Graph" width="650"/>
+
+<!-- Chart 3: The Protective Impact of Employment Tiers -->
+<img src="visualizations/Recidivism Rate vs. Emplpoyment Group.png" alt="Recidivism Rate vs. Employment Group Graph" width="650"/>
+
+<!-- Chart 4: Program Attendance Dosage Threshold -->
+<img src="visualizations/Recidivism Rate vs Program Attendances.png" alt="Recidivism Rate vs. Program Attendance Graph" width="650"/>
+
+<!-- Chart 5: Institutional Facility Performance (CY 2011–2022) -->
+<img src="visualizations/10-year Recidivism Ranges vs. Recent & Average Rates.png" alt="10-Year Recidivism Ranges vs. Recent & Average Rates Graph" width="650"/>
+
 
 
 ---
