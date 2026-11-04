@@ -31,10 +31,10 @@ This project analyzes 3-year post-release outcomes for over 25,000 individuals r
 <img src="visualizations/Recidivism Rate vs. Drug Test Status.png" alt="Recidivism Rate vs. Drug Test Status Graph" width="650"/>
 
 <!-- Chart 2: Population Headcount Distribution Across Drug Test Tiers -->
-<img src="visualizations/Headcount vs. Drug Test Status Graph.png" alt="Headcount vs. Drug Test Status Graph" width="650"/>
+<img src="visualizations/Headcount vs. Drug Test Status.png" alt="Headcount vs. Drug Test Status Graph" width="650"/>
 
 <!-- Chart 3: The Protective Impact of Employment Tiers -->
-<img src="visualizations/Recidivism Rate vs. Emplpoyment Group.png" alt="Recidivism Rate vs. Employment Group Graph" width="650"/>
+<img src="visualizations/Recidivism Rate vs. Employment Group.png" alt="Recidivism Rate vs. Employment Group Graph" width="650"/>
 
 <!-- Chart 4: Program Attendance Dosage Threshold -->
 <img src="visualizations/Recidivism Rate vs Program Attendances.png" alt="Recidivism Rate vs. Program Attendance Graph" width="650"/>
